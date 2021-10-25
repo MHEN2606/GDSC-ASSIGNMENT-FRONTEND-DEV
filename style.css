@@ -44,3 +44,11 @@
     width: 300px;
     height:400px;
 }
+
+.container .catalog .button{
+    background-color: #083d11;
+    color: #ffffff;
+    width: 4rem;
+    height: 2.5rem;
+    font-size: 1rem;
+}
