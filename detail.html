@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Movie Mania</title>
 </head>
-<body>
+<body onload="show_movie_detail()">
     <div class="container">
         <div class="header">
             <div class="judul">
@@ -19,10 +19,16 @@
         </div>
         <div class="content">
             <div class="catalog">
-                <span class="movietitle">Avengers: Endgame</span><br>
-                <img class="picture" src="./img/avengersendgame.jpg">
+                <span class="movietitle" id="movietitle"></span><br>
+                <img class="picture" src="" id="movieimage"><br>
+                <p id="moviedetail"></p>
+                <a href="index.html"><button class="button">BACK</button></a>
             </div>
+        </div>
+        <div class="footer">
+            <p>Copyright &copy; Matthew Mahendra 2021</p>
         </div>
     </div>
 </body>
+<script type="text/javascript" src="main.js"></script>
 </html>
