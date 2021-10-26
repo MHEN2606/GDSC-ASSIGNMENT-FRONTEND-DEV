@@ -29,36 +29,38 @@
     padding: 3px;
     margin: 0 auto;
 }
-
-.container .catalog{
+.container .content input[type='text']{
+    height: 2rem;
+    width: 10rem;
+}
+.container .content .catalog{
     padding: 5px;
     border-top: 3px solid #524c3d;
     border-bottom: 3px solid #524c3d;
     text-align: center;
 }
 
-.container .catalog p{
-    font-family: Arial, Helvetica, sans-serif;
-}
-.container .catalog .movietitle{
+.container .content .catalog .movietitle{
     font-weight: bold;
     font-size: 2.5rem;
 }
 
-.container .catalog .picture{
+.container .content .catalog .picture{
     width: 300px;
     height:400px;
 }
 
-.container .catalog .button{
+.container .content .catalog .button{
     background-color: #16982b;
     color: #ffffff;
     height: 2.5rem;
     font-size: 1rem;
 }
-.container .catalog .rating{
+
+.container .content .catalog .rating{
     font-size: 1.5rem;
 }
+
 .container .footer{
     background-color: #050405;
     color: #fff700;
