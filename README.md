@@ -1,6 +1,6 @@
 # GDSC-ASSIGNMENT-FRONTEND-DEV
 
 ## Front Page Design
-![](frontpage.png)
+![screenshot](frontpage.PNG)
 ## Movie Detail Page
-![](moviedetail.png)
+![screenshot](moviedetail.PNG)
