@@ -1,6 +1,6 @@
 # GDSC-ASSIGNMENT-FRONTEND-DEV
 
 ## Front Page Design
-![](./img/frontpage.png)
+![](frontpage.png)
 ## Movie Detail Page
-<img src = './img/moviedetail.png'>
+![](moviedetail.png)
