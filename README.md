@@ -1,5 +1,9 @@
 # GDSC-ASSIGNMENT-FRONTEND-DEV
 
+## Developed by
+Matthew Mahendra
+GDSC ID NUMBER : 349
+
 ## Front Page Design
 ![screenshot](./img/frontpage.PNG)
 View for the frontpage. Users can access all movies and see the detail button to click it.
